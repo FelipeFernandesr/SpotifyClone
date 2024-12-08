@@ -7,8 +7,12 @@
  <a href="#contribute">Contribute</a>
 </p>
 
+<h2 align="center">Sobre o Projeto📜 </h2>
 <p align="center">
-    <b>First access the project url through your web browser. Click on the numbers with the mouse, this calculator does not yet have the functionality to capture keyboard commands. As in a physical calculator, enter the first number and then the operator and then the second number and then the equals sign to obtain the result of the operation. If you want to start a new operation from the beginning, you will have to clear the screen with the "c" key and only then start a new operation.</b>
+    <b>  
+This project is a visual recreation of the **Spotify** website, developed with the aim of improving my knowledge of **HTML**, **CSS** and **Responsivity**. It represents a milestone in my learning of front-end development, focusing on good coding practices and attention to visual details.
+
+Through this project, I sought not only to replicate the interface, but also to understand how different technologies integrate to create a fluid and captivating experience for the user.</b>
 </p>
 
 <p align="center">
