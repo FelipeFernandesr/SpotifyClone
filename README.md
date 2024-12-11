@@ -10,7 +10,7 @@
 <h2 align="center">Sobre o Projeto📜 </h2>
 <p align="center">
     <b>  
-This project is a visual recreation of the **Spotify** website, developed with the aim of improving my knowledge of **HTML**, **CSS** and **Responsivity**. It represents a milestone in my learning of front-end development, focusing on good coding practices and attention to visual details.
+This project is a visual recreation of the Spotify website, developed with the aim of improving my knowledge of HTML, CSS and Responsivity. It represents a milestone in my learning of front-end development, focusing on good coding practices and attention to visual details.
 
 Through this project, I sought not only to replicate the interface, but also to understand how different technologies integrate to create a fluid and captivating experience for the user.</b>
 </p>
